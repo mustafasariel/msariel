@@ -1,1 +1,2 @@
-hava durumu bilgileri alınıyor
+hava durumu bilgileri alınıyor.
+RestSharp kullanılıyor
